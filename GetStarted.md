@@ -2,7 +2,7 @@
 
 This is a graphing calculator simulator project built based on the [SFML](https://www.sfml-dev.org "sfml-dv.org"), a simple multi-media library. 
 
-It is able to (functionailities). 
+It is able to function like a real graphing calculator. For detail functionailities, please check the [Functionaility](Functionaility.md) section. 
 
 
 # Getting Started
