@@ -17,30 +17,20 @@ Below is a rough list of all the functionailities of the graphing calcutor simul
 
 ## User Interrupt Related Function
 
-shift + A add point amount (up to 20000 points, +2500 points each
+| Supported Function | Detail Command |
+| --- | --- |
+| Add Dots Amount (up to 20000 dots, +2500 dots each time) | shift + A |
+| Deduct Dots Amount (up to 20000 dots, -2500 dots each time) | Shift + S |
+| Turn On Line Graphing (Green) | Shift + Q|
+| Turn On Dot Graphing (Blue) | Shift + W |
+| Earse All History | Shift + E |
+| Recenter Graph | Shift + R |
+| Turn On Polar/Linear Graphing | Shift + P |
+| Input New Function | Shift + F |
+| Zoom In | Shift + '+' |
+| Zoom Out | Shift + '-' |
+| Move Up/Down/Left/Right on Graph | Arrows on Keyboard |
+| Exit Input Box | 'ESC' |
+| Scroll on History List | Mouse Scroll |
+| Zoom In/Out at Specific Point | Use Mouse Cursor to Point at the Point and Scroll Up/Dowm to Zoom In/Out |
 
-shift + S deduct point amount(down to 2500 points, - 2500 points each
-
-shift + Q turn on line graphing (Green
-
-shift + W turn on point graphing (Blue
-
-shift + E earse all histroy
-
-shift + R recenter graph
-
-shift + P turn to polar graphing, press another time to change back to linear
-
-shift + F input new function
-
-shift + '+' zoom in
-
-shift + '-' zoom out
-
-arrows on keyboard for pan up down left right
-
-ese to exit input
-
-mouse scroll on history to move the history list
-
-mouse scroll on graph to zoom in and zoom out on the graph with direction
