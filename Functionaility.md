@@ -6,8 +6,7 @@ Below is a rough list of all the functionailities of the graphing calcutor simul
 
 | Supported Function | Detail Command |
 | --- | --- |
-| Basic Function | "exp","ceil","floor","round","abs"
-"sqrt","cbrt","log10","log","ln","sign","gamma","lgamma" |
+| Basic Function | "exp","ceil","floor","round","abs", "sqrt","cbrt","log10","log","ln","sign","gamma","lgamma" |
 
 
 Function included:
