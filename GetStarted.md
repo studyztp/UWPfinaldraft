@@ -77,7 +77,7 @@ To exit the input mode, press 'ESC' on the keyboard or enter a correct function.
 
 ## Move Around Graph
 
-You can move around the graph using the right panel ![Left](build-finalproject-Desktop_Qt_5_13_1_MinGW_64_bit-Debug/left.jpg)/![Right](build-finalproject-Desktop_Qt_5_13_1_MinGW_64_bit-Debug/right.jpg)/![Up](build-finalproject-Desktop_Qt_5_13_1_MinGW_64_bit-Debug/up.jpg)/![Down](build-finalproject-Desktop_Qt_5_13_1_MinGW_64_bit-Debug/down.jpg) or the arrow keys on your keyboard.
+You can move around the graph using the right panel ![Left](build-finalproject-Desktop_Qt_5_13_1_MinGW_64_bit-Debug/left.jpg)![Right](build-finalproject-Desktop_Qt_5_13_1_MinGW_64_bit-Debug/right.jpg)![Up](build-finalproject-Desktop_Qt_5_13_1_MinGW_64_bit-Debug/up.jpg)![Down](build-finalproject-Desktop_Qt_5_13_1_MinGW_64_bit-Debug/down.jpg) or the arrow keys on your keyboard.
 They will both allow you to shift Left/Right/Up/Down on the graph.
 
-If 
+If you want to move back to the center, press the button ![Recenter](build-finalproject-Desktop_Qt_5_13_1_MinGW_64_bit-Debug/recenter.jpg) or 'Shift + R ' on your keyboard.
