@@ -6,46 +6,13 @@ Below is a rough list of all the functionailities of the graphing calcutor simul
 
 | Supported Function | Detail Command |
 | --- | --- |
-| Basic Function | "exp","ceil","floor","round","abs", "sqrt","cbrt","log10","log","ln","sign","gamma","lgamma" |
-
-
-Function included:
-
-basic function in math.h:
-
-"exp","ceil","floor","round","abs"
-
-"sqrt","cbrt","log10","log","ln","sign","gamma","lgamma"
-
-
-hypobolic:
-
-"sinh","cosh","csch","sech","tanh","coth"
-
-
-inverse hypobolic:
-
-"asinh","atanh","acosh","acsch","asech","acoth"
-
-
-inverse trig:
-
-"asin","acos","atan","asec","acsc","acot"
-
-
-trig:
-
-"cos","tan","sin","sec","csc","cot"
-
-
-Symbol included:
-
-pi, x, e
-
-
-Operator included:
-
-( ) + - * / ^ pow
+| Basic | "exp","ceil","floor","round","abs", "sqrt","cbrt","log10","log","ln","sign","gamma","lgamma" |
+| Hypobolic | "sinh","cosh","csch","sech","tanh","coth" |
+| Inverse Hypobolic | "asinh","atanh","acosh","acsch","asech","acoth" |
+| Inverse Trig | "asin","acos","atan","asec","acsc","acot" |
+| Trig | "cos","tan","sin","sec","csc","cot" |
+| Symbol | pi, x, e |
+| Operator | ( ) + - * / ^ pow |
 
 
 ## User Interrupt Related Function
