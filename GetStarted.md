@@ -30,3 +30,6 @@ It it compiles and builds correctly, you should see the Graphic Calculator windo
 
 For video explantions on the instructions, please click on the red button: [![VideoInstruction](https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg)](https://youtu.be/PvxouDXfDf0)
 
+To change the function, first press the button "Enter" on the right panel ![ButtonEnter](build-finalproject-Desktop_Qt_5_13_1_MinGW_64_bit-Debug/enter.jpg)
+
+
