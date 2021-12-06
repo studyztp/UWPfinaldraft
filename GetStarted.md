@@ -32,6 +32,16 @@ For video explantions on the instructions, please click on the red button: [![Vi
 
 To change the function, first press the button "Enter" on the right panel 
 ![ButtonEnter](build-finalproject-Desktop_Qt_5_13_1_MinGW_64_bit-Debug/enter.jpg)
-Then, you will see 
+Then, you will see a pop-up box on the left that looks like this:
+
+![PopupBox](doc_res/EnterExample.jpg)
+
+Type in the function on the box with your keyboard and finish with pressing the enter key on your keyboard.
+If you enter an incorrect graphing function, you will see a yellow warnning sign at the end of the box. The warnning sign will dispear when you enter a correct graphing function.
+Below is an example:
+
+![IncorrectExample](doc_res/IncorrectExample.jpg)
+
+
 
 
