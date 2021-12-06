@@ -12,6 +12,7 @@ It is able to function like a real graphing calculator. For detail functionailit
 * [Project Overview](#project-overview)
   * [Quick Start](#quick-start)
   * [Graphing Calculator Instructions](#graphing-calculator-instructions)
+  * [Error and Suggestion](#error-and-suggestion)
 
 
 
@@ -51,6 +52,9 @@ By pressing the button ![helpoff](build-finalproject-Desktop_Qt_5_13_1_MinGW_64_
 * [Basic Instructions](#basic-instructions)
   * [Enter Function](#enter-function)
   * [Move Around Graph](#move-around-graph)
+  * [Zoom In/Out](#zoom-in/out)
+  * [Save History](#save-history)
+  * [Change Graphing Mode](#change-graphing-mode)
 
 
 
@@ -81,3 +85,37 @@ You can move around the graph using the right panel ![Left](build-finalproject-D
 They will both allow you to shift Left/Right/Up/Down on the graph.
 
 If you want to move back to the center, press the button ![Recenter](build-finalproject-Desktop_Qt_5_13_1_MinGW_64_bit-Debug/recenter.jpg) or 'Shift + R ' on your keyboard.
+
+
+## Zoom In/Out
+
+You can zoom in/out on the graph by pressing ![In](build-finalproject-Desktop_Qt_5_13_1_MinGW_64_bit-Debug/in.jpg)![Out](build-finalproject-Desktop_Qt_5_13_1_MinGW_64_bit-Debug/out.jpg) or pressing ' Shift + '+' '/' Shift + '-' '.
+
+Using the mouse cursor allows you to zoom in/out at a specific points. You can do it by pointing the mouse cursor at a point on the graph and srcolling up/down. 
+
+## Save History
+
+You can turn on/off the autometic save by pressing the button ![on](build-finalproject-Desktop_Qt_5_13_1_MinGW_64_bit-Debug/autosave.jpg)![off](build-finalproject-Desktop_Qt_5_13_1_MinGW_64_bit-Debug/autosave_false.jpg) to autometically save the histories.
+
+Or you can manually save the history by pressing the button ![save](build-finalproject-Desktop_Qt_5_13_1_MinGW_64_bit-Debug/save.jpg)
+
+If you want to delete any histories, you can press the cross ![cross](build-finalproject-Desktop_Qt_5_13_1_MinGW_64_bit-Debug/cross.jpg) or use the clear button ![clear](build-finalproject-Desktop_Qt_5_13_1_MinGW_64_bit-Debug/clear.jpg) to clear all histories. 
+
+
+## Change Graphing Mode
+
+There are two graphing mode. One is Linear and another is Polar.
+To switch between Linear and Polar graphing mode, press the ' Shift + P ' on your keyboard.
+
+There are two ways to graph the graph. One is using dots, and another is using line.
+Both ways can exist at the same time, but at least one needs to be on. 
+To turn on the doting, press ' Shift + W '.
+To turn on the lineing, press ' Shift + Q'.
+
+To increse the density of the doting, you can press ' Shift + A '.
+To decrease the density of the doting, you can press ' Shift + S '.
+
+
+# Error and Suggestion
+
+If you experience any error or have any suggestions for the simulator, please leave a comment on the discussion page.
