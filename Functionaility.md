@@ -1,6 +1,7 @@
 # Functionaility
 
-Below is a detail list of all the functionailities and commands of the graphing calcutor simulator:
+Below is a detail list of all the functionailities and commands of the graphing calcutor simulator.
+There are step by step instructions on the [GetStarted](GetStarted.md) section.
 
 ## Math Related Function
 
