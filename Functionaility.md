@@ -1,6 +1,6 @@
 # Functionaility
 
-Below is a rough list of all the functionailities of the graphing calcutor simulator:
+Below is a detail list of all the functionailities and commands of the graphing calcutor simulator:
 
 ## Math Related Function
 

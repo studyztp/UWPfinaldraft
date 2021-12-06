@@ -2,7 +2,7 @@
 
 This is a graphing calculator simulator project built based on the [SFML](https://www.sfml-dev.org "sfml-dv.org"), a simple multi-media library. 
 
-It is able to function like a real graphing calculator. For detail functionailities, please check the [Functionaility](Functionaility.md) section. 
+It is able to function like a real graphing calculator. For detail functionailities, please check the [Functionaility](Functionaility.md) section.
 
 
 # Getting Started
@@ -35,6 +35,8 @@ If it compiles and builds correctly, you should see the Graphic Calculator windo
 For video explantions on the instructions, please click on the red button
 
  [![VideoInstruction](https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg)](https://youtu.be/PvxouDXfDf0)
+
+For detail commands, please check the [Functionaility](Functionaility.md) section.
 
 
 ## Basic Instructions
