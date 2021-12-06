@@ -47,7 +47,7 @@ You can also press the button ![helpon](build-finalproject-Desktop_Qt_5_13_1_Min
 By pressing the button ![helpoff](build-finalproject-Desktop_Qt_5_13_1_MinGW_64_bit-Debug/helpoff.jpg), the help messages will disapear. 
 
 
-
+## Table of Instructions
 * [Basic Instructions](#basic_instructions)
   * [Enter Function](#enter_function)
 
