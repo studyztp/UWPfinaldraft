@@ -48,9 +48,9 @@ By pressing the button ![helpoff](build-finalproject-Desktop_Qt_5_13_1_MinGW_64_
 
 
 ## Table of Instructions
-* [Basic Instructions](#basic_instructions)
-  * [Enter Function](#enter_function)
-  * [Move Around Graph](#move_around_graph)
+* [Basic Instructions](##basic_instructions)
+  * [Enter Function](##enter_function)
+  * [Move Around Graph](##move_around_graph)
 
 
 
