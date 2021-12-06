@@ -22,16 +22,26 @@ To compile the code, the following tools are required:
 1. C++ compiler or compiling software (ex. [Qt Creator](https://www.qt.io/product/development-tools "QtCreator website"), [VSCode](https://code.visualstudio.com "VSCode Website"))
 2. [SFML library](https://www.sfml-dev.org/tutorials/2.5/start-vc.php "sfml-tutorial")
 
-It it compiles and builds correctly, you should see the Graphic Calculator window that looks like this:
+If it compiles and builds correctly, you should see the Graphic Calculator window that looks like this:
 
 ![GraphicCalculatorWindow](doc_res/GraphingCalculatorUI.jpg)
 
 ## Graphing Calculator Instructions
 
-For video explantions on the instructions, please click on the red button: [![VideoInstruction](https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg)](https://youtu.be/PvxouDXfDf0)
+For video explantions on the instructions, please click on the red button
+ [![VideoInstruction](https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg)](https://youtu.be/PvxouDXfDf0)
 
-To change the function, first press the button "Enter" on the right panel 
-![ButtonEnter](build-finalproject-Desktop_Qt_5_13_1_MinGW_64_bit-Debug/enter.jpg)
+
+### Basic Instructions
+In this section, it will introduce the basic instructions to use the graphing calculator.
+You can also press the button ![helpon](build-finalproject-Desktop_Qt_5_13_1_MinGW_64_bit-Debug/helpon.jpg) on the right panel to get breif instructions on each button.
+By pressing the button ![helpoff](build-finalproject-Desktop_Qt_5_13_1_MinGW_64_bit-Debug/helpoff.jpg), the help messages will disapear. 
+
+* [Basic Instructions](#basic_instructions)
+  * [Enter Function](#enter_function)
+
+#### Enter Function
+To change the function, first press the button ![ButtonEnter](build-finalproject-Desktop_Qt_5_13_1_MinGW_64_bit-Debug/enter.jpg) on the right panel 
 Then, you will see a pop-up box on the left that looks like this:
 
 ![PopupBox](doc_res/EnterExample.jpg)
@@ -41,6 +51,8 @@ If you enter an incorrect graphing function, you will see a yellow warnning sign
 Below is an example:
 
 ![IncorrectExample](doc_res/IncorrectExample.jpg)
+
+
 
 
 
