@@ -50,11 +50,12 @@ By pressing the button ![helpoff](build-finalproject-Desktop_Qt_5_13_1_MinGW_64_
 ## Table of Instructions
 * [Basic Instructions](#basic_instructions)
   * [Enter Function](#enter_function)
+  * [Move Around Graph](#move_around_graph)
 
 
 
 ## Enter Function
-To change the function, first press the button ![ButtonEnter](build-finalproject-Desktop_Qt_5_13_1_MinGW_64_bit-Debug/enter.jpg) on the right panel 
+To change the function, first press the button ![ButtonEnter](build-finalproject-Desktop_Qt_5_13_1_MinGW_64_bit-Debug/enter.jpg) on the right panel or press 'Shift + F' on keyboard
 
 Then, you will see a pop-up box on the left that looks like this:
 
@@ -71,8 +72,12 @@ Below is an example:
 
 ![IncorrectExample](doc_res/IncorrectExample.jpg)
 
+To exit the input mode, press 'ESC' on the keyboard or enter a correct function. 
 
 
+## Move Around Graph
 
+You can move around the graph using the right panel ![Left](build-finalproject-Desktop_Qt_5_13_1_MinGW_64_bit-Debug/left.jpg)/![Right](build-finalproject-Desktop_Qt_5_13_1_MinGW_64_bit-Debug/right.jpg)/![Up](build-finalproject-Desktop_Qt_5_13_1_MinGW_64_bit-Debug/up.jpg)/![Down](build-finalproject-Desktop_Qt_5_13_1_MinGW_64_bit-Debug/down.jpg) or the arrow keys on your keyboard.
+They will both allow you to shift Left/Right/Up/Down on the graph.
 
-
+If 
